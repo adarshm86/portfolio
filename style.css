@@ -398,10 +398,10 @@ section {
 
 /* FOOTER */
 footer {
-    padding: 2rem;
+    padding: 3.5rem;
     text-align: center;
-    background: rgba(15,23,42,0.8);
-    margin-top: 4rem;
+    background: rgba(15,23,42,1);
+    margin-top: 3.5rem;
 }
 
 /* ANIMATION ON SCROLL */
